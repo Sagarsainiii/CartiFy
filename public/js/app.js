@@ -1,0 +1,1 @@
+console.log("CartiFy App Loaded");
